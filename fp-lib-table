@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/logos.pretty)(options "")(descr ""))
+  (lib (name local-footprints)(type KiCad)(uri ${KIPRJMOD}/local-footprints.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,12 @@
+# Generic backup files
+*~
+
+# KiCAD backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+
+# KiCAD generated files
+*.erc
+*-rescue.lib
+

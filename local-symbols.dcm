@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B4327
+D 1582.47MHz SAW filter, SMD 1109
+K SAW filter
+F https://product.tdk.com/search-template/en/documents/data_sheet/40/ds/mc/B9482.pdf
+$ENDCMP
+#
+$CMP TESEO-LIV3F
+D MODULE GPS SIRFSTARIV
+K 1530-1011-1-ND SiRFstarIV™
+F http://update.maestro-wireless.com/GNSS/A2235-H/Maestro_A2135_HA2235_H_v11.pdf
+$ENDCMP
+#
+#End Doc Library
